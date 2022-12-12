@@ -1,0 +1,12 @@
+n=int(input())
+x=input().split()
+print("The index value of 0 is",x.index('0'))
+print("The index value of 1 is",x.index('1'))
+print("The index value of 2 is",x.index('2'))
+output:
+== RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/max.py ==
+10
+ 3 6 8 2 7 1 4 0 5 9
+The index value of 0 is 7
+The index value of 1 is 5
+The index value of 2 is 3
