@@ -1,0 +1,12 @@
+#TO IDENTIFY MAX AND MIN 
+n=int(input())
+x=input().split()
+print(max(x))
+print(min(x))
+
+output:
+== RESTART: C:/Users/S ANUPAMA/AppData/Local/Programs/Python/Python311/max.py ==
+5
+12 34 65 13 43
+65
+12
